@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "appleLoginPlugin",
+    "slug": "appleloginplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "appleLogin",
+        "signature": "() => Promise<{ email: string; name: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ email: string; name: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "applelogin"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
